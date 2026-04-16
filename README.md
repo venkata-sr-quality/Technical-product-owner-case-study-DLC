@@ -1,28 +1,18 @@
-Direct Liquid Cooling (DLC) – Technical Product Owner Case Study
-This repository shares a sanitized case study from my work as Technical Product Owner (TPO) and Software Tester on a Direct Liquid Cooling (DLC) system.
+# Product Case Study – Direct Liquid Cooling (DLC) System
+### Technical Product Owner (TPO)
 
-Important: This is not a client repository. No confidential info, code, or internal docs are included—everything is generalized for public sharing.
+This repository presents a **sanitized, real‑world product case study**
+from a **Direct Liquid Cooling (DLC)** system, where I worked as a  
+**Technical Product Owner (TPO)** and **Software Tester**.
 
-Why This Case Study?
-Most Product Owner portfolios highlight tools or templates. This one dives into:
+This is not a client repository.  
+No proprietary data, internal documents, screenshots, or code are shared.
 
-Product thinking in safety-critical systems
+The purpose of this case study is to demonstrate:
+- How product ownership works in complex technical systems
+- How real decisions and tradeoffs are made
+- How quality and testing influence product direction
+- How a TPO owns outcomes, not just requirements
 
-Real decision-making and tradeoffs
-
-Ownership from vision to delivery
-
-Quality-driven choices, including testing impacts
-
-It shows how I operate as a TPO in complex, high-stakes environments where stability trumps features.
-
-What You'll Find
-Product context: The problem space and challenges
-
-Vision & outcomes: Goals, metrics, and results
-
-My TPO role: Backlog prioritization, stakeholder alignment, and tech decisions
-
-Quality influence: How testing shaped features and risk mitigation
-
-Lessons learned: Tradeoffs from real constraints (e.g., firmware stability in safety-critical setups
+This case study is written in a **story‑driven format**, reflecting real
+project experiences (sanitized for public sharing).
