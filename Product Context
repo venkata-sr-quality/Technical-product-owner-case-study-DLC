@@ -1,0 +1,11 @@
+## Product Context
+
+The DLC system operated in an environment where:
+- Sudden failures could cause equipment shutdown
+- Long uninterrupted runs were expected
+- Field debugging was difficult and slow
+
+Early in the project, it became clear that
+**normal functional testing was not enough**.
+Issues appeared only after long hours of operation
+or during unexpected recovery scenarios.
